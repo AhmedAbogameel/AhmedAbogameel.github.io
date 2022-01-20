@@ -55952,8 +55952,8 @@ A.x2.prototype={
 aL(){return new A.x3(A.a7n(),B.l)}}
 A.x3.prototype={
 a12(){var s=this,r=s.e,q=r+6
-if(q<21)s.e=q
-else if(q>21&&r!==21)s.e=21
+if(q<=21)s.e=q
+else if(r!==21)s.e=21
 s.aI(new A.a3n())},
 J(a,b){var s=this,r=null,q=A.hY(7),p=A.b([A.d3("Projects",A.aC($.eB()).W.x,B.az,r),A.du(r,50,r)],t.p),o=b.O(t.w).f,n=s.e
 if(o.a.a>=1100)p.push(A.a7V(new A.uY(3,A.ag2(4.5)/A.hY(3)),new A.a3l(s),n,new A.is(r),!0))
