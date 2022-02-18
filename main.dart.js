@@ -56080,7 +56080,7 @@ J(a,b){var s=null
 return A.h0(s,A.RL("assets/images/logo.png",B.tQ,30,30),B.o,s,s,new A.ea(B.ap,s,s,s,s,s,B.e9),s,s,s,s,s,s,s)}}
 A.lu.prototype={
 J(a,b){var s=A.ag3(b.O(t.w).f.a.a>=1100?4:1)
-return new A.ck(new A.aK(0,20,0,20),A.RL("assets/images/Jemi-Book.jpg",B.tR,A.hY(1.5),s),null)}}
+return new A.ck(new A.aK(0,20,0,20),A.RL("assets/images/me.png",B.tR,A.hY(1.5),s),null)}}
 A.lQ.prototype={
 J(a,b){return new A.t_(new A.Wg(this),null)}}
 A.Wg.prototype={
