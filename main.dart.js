@@ -55897,7 +55897,7 @@ A.wX.prototype={
 J(a,b){var s=null,r=b.O(t.w).f.a.a>=1100?B.cW:B.a0,q=A.dr(s,20,s),p=A.cY("HELLO TO MY WORLD",s,s,s),o=A.aA($.ev()),n=A.aA($.ev()).a4.x.ds(B.bE),m=t.VO,l=t.p
 return A.f5(A.a([q,p,new A.ce(new A.aK(0,20,0,20),A.a7y(s,s,B.bq,!0,s,A.md(A.a([A.md(A.a([A.md(s,A.aA($.ev()).a4.x,"\na Professional Mobile Developer.")],m),n," Ahmed Abogameel")],m),o.a4.x,"Hi, I'm"),B.aB,s,s,1,B.a2),s),A.cY("I have been working since 2019, I am proficient in developing mobile apps Flutter and iOS",s,s,s),new A.ce(new A.aK(0,50,0,15),A.cY("Find me with",s,s,s),s),A.lW(A.a([A.ij(s,A.ii(B.yo,s,s),s,new A.a1B(),"Resume"),A.ij(s,A.ii(B.yn,s,s),s,new A.a1C(),"Mail"),A.ij(s,A.ii(B.ym,s,s),s,new A.a1D(),"Github"),A.ij(s,A.ii(B.yh,s,s),s,new A.a1E(),"Linkedin"),A.ij(s,A.ii(B.yg,s,s),s,new A.a1F(),"Facebook"),A.ij(s,A.ii(B.yq,s,s),s,new A.a1G(),"Phone")],l),B.a0,B.dx,B.b3)],l),r,B.Y)}}
 A.a1B.prototype={
-$0(){return A.jI("https://drive.google.com/file/d/16CPN214bF9-zn1k6prGWeVgsYjT1huW3/view?usp=sharing")},
+$0(){return A.jI("https://drive.google.com/file/d/1-wnpUxZWXQDkrO8zlBGfhLNZsPBCK1Wr/view?usp=sharing")},
 $S:0}
 A.a1C.prototype={
 $0(){return A.Ce("gamilco@gmail.com")},
